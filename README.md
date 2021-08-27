@@ -1,3 +1,5 @@
+[![hackmd-github-sync-badge](https://hackmd.io/TIuCkQYBQqqL0Rnt-jKgiA/badge)](https://hackmd.io/TIuCkQYBQqqL0Rnt-jKgiA)
+
 {%hackmd SybccZ6XD %}
 ###### tags: `NTOU_1081` `程式語言` `C++`
 # [C++_海大1081](https://drive.google.com/drive/u/2/folders/1ZZ636J5y98nIeNK8g27YVDdJ-hSw_SYo)
