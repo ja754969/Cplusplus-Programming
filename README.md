@@ -874,7 +874,8 @@ int main(){
 停車時間 : 330分鐘
 停車費為 : 270元
 ```
-### W82  [小考2-2](https://)![](https://i.imgur.com/l6ERyXP.png)
+### W82  [小考2-2](https://)  
+![](https://i.imgur.com/l6ERyXP.png)
 
 ```cpp=
 #include <iostream>
@@ -896,7 +897,8 @@ int main(){
 ```
 20年後月薪為: 298637元
 ```
-### W83  [小考2-3](https://)![](https://i.imgur.com/n8oKjrC.png)
+### W83  [小考2-3](https://)  
+![](https://i.imgur.com/n8oKjrC.png)
 
 ```cpp=
 #include <iostream>
